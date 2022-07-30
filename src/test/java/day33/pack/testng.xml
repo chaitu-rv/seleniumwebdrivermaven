@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+  <test name="MYTEST1">
+    <classes>
+      <class name="day33.pack.Test1"/>
+      <class name="day33.pack.Test2"/>
+      <class name="day33.pack.Test3"/>
+    </classes>
+  </test> <!-- testng -->
+
+ <test name="MYTEST2">
+    <classes>
+      <class name="day33.pack.Test1"/>
+      <class name="day33.pack.Test2"/>
+      <class name="day33.pack.Test3"/>
+    </classes>
+  </test> <!-- testng -->
+
+</suite> <!-- Suite -->
